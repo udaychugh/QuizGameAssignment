@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="welcome">Welcome</string>
+    <string name="start_message">Start when you are ready</string>
+    <string name="user_name_hint">Name</string>
+    <string name="start_button">Start</string>
+    <string name="submit_button">Submit</string>
+    <string name="which_internet_company_began_life_as_an_online_bookstore_called_039_cadabra_039">Which internet company began life as an online bookstore called \'Cadabra\'?</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+</resources>
